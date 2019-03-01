@@ -7,13 +7,10 @@
 
 <script>
 export default {
-    name: "ColorFinder", 
-    props: {
-
-    }
+    name: "ColorFinder"
 }
 </script>
 
-<style lang="sass">
+<style scoped>
 
 </style>
